@@ -1,5 +1,5 @@
 # FSI-class-projects
-ML projects for "CIC0193 - Fundamentos de Sistemas Inteligentes" class
+ML projects for "CIC0193 - Fundamentos de Sistemas Inteligentes" class.
 The projects were requested with specific instructions, as follows:
 - CLASSIFICADORES ÁRVORE DE DECISÃO E FLORESTAS RANDÔMICAS:
     Técnicas de Aprendizagem de Máquinas como Árvores de Decisão e Florestas Randômicas têm
