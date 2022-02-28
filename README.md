@@ -1,5 +1,6 @@
 # FSI-class-projects
 ML projects for "CIC0193 - Fundamentos de Sistemas Inteligentes" class at Universidade de Brasília.
+
 The projects were requested with specific instructions, as follows:
 
 - CLASSIFICADORES ÁRVORE DE DECISÃO E FLORESTAS RANDÔMICAS:
