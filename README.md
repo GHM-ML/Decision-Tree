@@ -9,4 +9,4 @@ Projetos de Machine Learning para a aula de "CIC0193 - Fundamentos de Sistemas I
     A variável chd (coronary heart disease, yes=1, no=0) é a classificação y.
 
     O projeto visa aplicar algoritmos de árvores de decisão e Florestas Randômicas para predição de
-    diabetes com base nesses dados. 
+    Doença arterial coronariana com base nesses dados. 
