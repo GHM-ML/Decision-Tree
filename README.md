@@ -1,6 +1,3 @@
-# FSI-class-projects
-Projetos de Machine Learning para a aula de "CIC0193 - Fundamentos de Sistemas Inteligentes" na Universidade de Brasília.
-
 - PROJETO 1: CLASSIFICADORES ÁRVORE DE DECISÃO E FLORESTAS RANDÔMICAS
 
     Técnicas de Aprendizagem de Máquinas como Árvores de Decisão e Florestas Randômicas têm
